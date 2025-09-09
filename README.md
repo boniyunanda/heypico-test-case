@@ -384,19 +384,6 @@ This project was created to demonstrate:
 - **🌍 Accessible**: WCAG 2.1 AA compliant interface
 
 ---
-
-## 🎉 **Live Demo**
-
-Try the live demo: [https://local-llm-maps.demo.com](https://local-llm-maps.demo.com)
-
-**Example Queries to Try:**
-- "Find the best restaurants near Central Park"
-- "Show me coffee shops within walking distance of Times Square"
-- "Get directions from Brooklyn Bridge to Statue of Liberty"
-- "What's the nearest hospital to my current location?"
-
----
-
 ## 🔮 **Roadmap**
 
 ### **Upcoming Features**
